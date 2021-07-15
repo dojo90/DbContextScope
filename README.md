@@ -1,6 +1,6 @@
 ## Foreword
 
-This is a fork from [tncalvert/DbContextScope](https://github.com/tncalvert/DbContextScope). The target framework is `.NET Standart2.0` and minimum `Microsoft.EntityFrameworkCore` version is `v2.0.0`.
+This is a fork from [tncalvert/DbContextScope](https://github.com/tncalvert/DbContextScope). The target framework is `.NET Standard2.0` and minimum `Microsoft.EntityFrameworkCore` version is `v2.0.0`.
 
 If you use this library in your project, please note to use same `nuget versions`! The `DbContextScope` uses `Microsoft.EntityFrameworkCore.Relational v2.0.0`!
 
